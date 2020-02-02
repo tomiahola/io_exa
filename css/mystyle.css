@@ -1,8 +1,13 @@
+html,
+	body {
+	  height: 100%;
+	  width: 100%;
+    }
 #header{
     background-color: aqua;
 }
 #menu{
-    background-color: orange;
+    background-color: orangered;
     height: 100%;
     width: 150px;
     font: size 20px;
@@ -25,11 +30,7 @@
 #footer{
     background-color: lightgray;
 }
-html,
-	body {
-	  height: 100%;
-	  width: 100%;
-    }
+
 .myforms{
     border-color: black;
     border-style: solid;
@@ -43,4 +44,4 @@ html,
     #targetForm{
     background-color: lightgreen;
     }
-	
+
