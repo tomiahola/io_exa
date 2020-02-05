@@ -28,8 +28,6 @@ $persons=array(
 );
 ?>
 
-//<?php print_r($persons) ?>
-
 <ul>
   <?php
   foreach ($persons as $row) {
